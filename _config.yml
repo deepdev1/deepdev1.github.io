@@ -18,9 +18,6 @@ social:
     - icon: fa-github
       link: "https://github.com/deepdev1"
 
-share:
-  twitter_username:
-  fb_appid:
 
 urls:
     - text: About Me
